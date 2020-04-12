@@ -41,6 +41,15 @@ module.exports = {
         ],
         dsl: 'less'
     },
+    porto_child: {
+        area: 'frontend',
+        name: 'Smartwave/porto_child',
+        locale: 'en_US',
+        files: [
+            'css/custom'
+        ],
+        dsl: 'less'
+    },
     backend: {
         area: 'adminhtml',
         name: 'Magento/backend',
